@@ -1,0 +1,20 @@
+{
+  "name": "package-zttest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangtao-git/package-zttest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangtao-git/package-zttest/issues"
+  },
+  "homepage": "https://github.com/zhangtao-git/package-zttest#readme"
+}
